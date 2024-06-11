@@ -13,7 +13,7 @@ https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Metho
 
 ### Useful references:
 
-The frontier of simulation-based inference, Kyle Cranmer, Johann Brehmer, and Gilles Louppe, PNAS 117 (48) 30055-30062 https://doi.org/10.1073/pnas.191278911
+The frontier of simulation-based inference, Kyle Cranmer, Johann Brehmer, and Gilles Louppe, PNAS 117 (48) 30055-30062 https://doi.org/10.1073/pnas.1912789117
 
 Fast ε-free Inference of Simulation Models with Bayesian Conditional Density Estimation, George Papamakarios, Iain Murray, NeurIPS 2016, https://proceedings.neurips.cc/paper_files/paper/2016/file/6aca97005c68f1206823815f66102863-Paper.pdf
 
